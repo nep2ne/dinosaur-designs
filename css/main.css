@@ -17,3 +17,7 @@ img {
 h1 {
   color: #5d8432;
 }
+
+h1 {
+  text-transform: uppercase;
+}
