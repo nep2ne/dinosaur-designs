@@ -1,7 +1,7 @@
 html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
-  width: 60%;
+  line-height: 1.5;
 }
 
 img {
@@ -35,4 +35,8 @@ a:hover {
 
 nav {
   font-family: "Patua One", cursive;
+}
+
+.hadro-dino {
+  font-size: 1.2rem;
 }
