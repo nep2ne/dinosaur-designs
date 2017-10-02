@@ -18,3 +18,17 @@ figcaption {
   font-size: 0.8rem;
   font-style: italic;
 }
+ul {
+  list-style-type: none;
+}
+
+a,
+a: link {
+  color: #793284;
+  text-decoration: none;
+}
+
+a: hover {
+  color: #b42885;
+  text-decoration: underline;
+}
