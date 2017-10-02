@@ -1,12 +1,6 @@
 html {
   background-color: #f2f1ed;
-}
-
-html {
   font-family: Georgia, serif;
-}
-
-html {
   width: 60%;
 }
 
@@ -16,20 +10,11 @@ img {
 
 h1 {
   color: #5d8432;
-}
-
-h1 {
   text-transform: uppercase;
 }
 
 figcaption {
   text-align: center;
-}
-
-figcaption {
   font-size: 0.5rem;
-}
-
-figcaption {
   font-style: italic;
 }
