@@ -22,13 +22,12 @@ ul {
   list-style-type: none;
 }
 
-a,
-a: link {
+a {
   color: #793284;
   text-decoration: none;
 }
 
-a: hover {
+a:hover {
   color: #b42885;
   text-decoration: underline;
 }
