@@ -5,6 +5,11 @@ html {
 html {
   font-family: Georgia, serif;
 }
-img {
+
+html {
   width: 60%;
+}
+
+img {
+  width: 100%;
 }
