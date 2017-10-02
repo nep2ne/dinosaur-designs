@@ -8,18 +8,20 @@ img {
   width: 100%;
 }
 
-h1 {
+h2 {
   font-family: "Patua One", cursive;
   color: #5d8432;
   text-transform: uppercase;
 }
 
 figcaption {
-  text-align: center;
   font-size: 0.8rem;
   font-style: italic;
+  line-height: normal;
+  text-align: center;
 }
-ul {
+
+ol {
   list-style-type: none;
 }
 
