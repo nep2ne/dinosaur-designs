@@ -21,3 +21,15 @@ h1 {
 h1 {
   text-transform: uppercase;
 }
+
+figcaption {
+  text-align: center;
+}
+
+figcaption {
+  font-size: 0.5rem;
+}
+
+figcaption {
+  font-style: italic;
+}
