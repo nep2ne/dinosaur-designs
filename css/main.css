@@ -15,7 +15,7 @@ h2 {
 }
 
 figcaption {
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-style: italic;
   line-height: normal;
   text-align: center;
@@ -40,5 +40,5 @@ nav {
 }
 
 .hadro-dino {
-  font-size: 1.2rem;
+  font-size: 1.025rem;
 }
